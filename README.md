@@ -2,8 +2,10 @@
 React de JavaScript :)
 
 
+## Primer Paso
 
-CONSOLA
+### Configurar un nuevo proyecto Vite
+#### Consola
 
 Posicionarnos en la carpeta adecuada.
 ```console
