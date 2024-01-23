@@ -19,12 +19,7 @@ carovasq@miau:~$ npm create vite@latest
 
 Te pedirá información de tu nuevo proyecto. Como el nombre del proyecto.
 ```console
-carovasq@miau:~$ package name: Test01
-```
-
-Elegimos nombre para el paquete.
-```console
-carovasq@miau:~$ package name: test01
+? Project name: » Test01
 ```
 
 Elegimos framework
